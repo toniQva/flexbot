@@ -1,0 +1,27 @@
+{
+  "username": "tonypm2708@gmail.com",
+  "password": "&!%8R^uYX@$V4k2cpxzF",
+  "minBlockRate": 70,
+  "minPayRatePerHour": 20,
+  "arrivalBuffer": 45,
+  "desiredWarehouses": [],
+  "desiredStartTime": "00:00",
+  "desiredEndTime": "23:30",
+  "desiredWeekdays": [
+    "MON",
+    "tue",
+    "Wed",
+    "Thur",
+    "Fri",
+    "Sat",
+    "Sunday"
+  ],
+  "retryLimit": 50,
+  "refreshInterval": 0.2,
+  "twilioAcctSid": "",
+  "twilioAuthToken": "",
+  "twilioFromNumber": "",
+  "twilioToNumber": "",
+  "refreshToken": "Atnr|EwICIO6zVi9JTogCyBqaJuDD6jo9mKhyjtRljzDRPduMiGNoqZqYZyk3k3wIE4FMWrjs8TThLTSoht1-jJjYTA51EHlncj1RGVKGK2MsS4L40QbvfjqBorzqvy2Zt4pPyS6vF5BUTrV4WCdjNfRqmoWoNPwFEFG7ilnbSAvy7aQIuStNV3cbJUXJlkPdREIOcjnBQeBYh4eplfip6nAVELNVMMmnF_-zSIf1kmB4lTO3sgUo9UxMel9OtUe9i9xsqupjzaJvY8YLARwG47br-qetqVDzboNu4a0d50LzzXqmlxHmiQ",
+  "accessToken": "Atna|EwICIM2UmqlL3gK56j91sPFKuP27JP8JIUrpnnhTnUhBLaXGAoPzog395pqWGUlntceNvkCbr_M85LonYvpRAKKwJyJmYcPZaxP22uVGfrwl5rm7GLh-7JyaMCrOx8jaPfFCPR-1SycvkRso4xfLIw3YB-41bNbjdryooEJmXmV-ur01p3_P94gHENJzcjpVazB3NS9PEXAGHVPvJ3K1DnzKBGYqa6wL4s-BuTQJh92MtO71V6bkbnYfhT3MHhagApNoK06D9U7Q74zVwVMRi5f0A4ACN_u8S1JAHbPjJu_B4ike_g"
+}
