@@ -1,10 +1,11 @@
 {
   "username": "tonypm2708@gmail.com",
   "password": "&!%8R^uYX@$V4k2cpxzF",
-  "minBlockRate": 70,
+  "minBlockRate": 50,
   "minPayRatePerHour": 20,
   "arrivalBuffer": 45,
   "desiredWarehouses": [
+    
     "29571892-da88-4089-83f0-24135852c2e4", 
     "70830642-a218-4064-9a9b-2cfc90af6bb7", 
     "b90b085e-874f-48da-8150-b0c215efff08", 
@@ -37,7 +38,7 @@
     "Sat",
     "Sunday"
   ],
-  "retryLimit": 100,
+  "retryLimit": 50,
   "refreshInterval": 0.2,
   "twilioAcctSid": "",
   "twilioAuthToken": "",
