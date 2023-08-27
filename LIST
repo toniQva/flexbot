@@ -2,65 +2,90 @@
 +----------------------------------------------------+--------------------------------------+
 |                 Service Area Name                  |           Service Area ID            |
 +----------------------------------------------------+--------------------------------------+
-|            Miami (UFL2) - Fresh Online             | 29571892-da88-4089-83f0-24135852c2e4 |
-| Ft Lauderdale Poinciana Park (C465) - Whole Foods  | d15e18ec-66c7-42ae-8599-9f27f82b19cc |
-|       Dolphin Mall (PDAE) - Retail Delivery        | 70830642-a218-4064-9a9b-2cfc90af6bb7 |
-|        Tower Shops (PTGX) - Retail Delivery        | b25b3516-c95c-4457-984d-dfe778e5749c |
-|   Coral Gables South Miami (C314) - Whole Foods    | b90b085e-874f-48da-8150-b0c215efff08 |
-|          Pompano Beach (DMF3)- Amazon.com          | f4342003-fb20-4761-9998-a1aca8133c23 |
-|      West Fork Plaza (PWAU) - Retail Delivery      | 6671a916-633a-446e-a9c6-a0d3ffa1fad8 |
-|     Miami Downtown Miami (C073) - Whole Foods      | d98c442b-9688-4427-97b9-59a4313c2f66 |
-|    Pembroke Lakes Mall (PPCQ) - Retail Delivery    | b8cd3a55-506d-4885-9f99-01644fa31aa6 |
-|   Office Depot Kendall (PSJD) - Retail Delivery    | 2cf2bfae-6fa9-42be-9192-f96fdfa6c38b |
-|    Coconut Creek Plaza (PCBF) - Retail Delivery    | 77e859df-7479-4cbb-a2fe-2a076bf8080f |
-|             Hialeah (DMF1)- Amazon.com             | d42d1888-f102-49e1-b524-6db352dd6d31 |
-|      Sawgrass Mills (PSAJ) – Retail Delivery       | 75aa8d33-6d49-47ef-8519-d14ceee5f122 |
-|                Miami - (DMI6) AMZL                 | fd409ef8-f297-4543-9b93-6a5e93184313 |
-| The Mall At Wellington Green(PTEJ)-Retail Delivery | e3812500-d6f4-46fa-852c-a546e307d80a |
-| PinesBlvdInPembrokePines (PPEW) - Retail Delivery  | b5dc48b2-b0cf-4392-8e53-4b4eb0e159fc |
-| Coral Ridge In Ft Lauderdale(PCBM)-Retail Delivery | a7ac1424-c321-43ff-abcf-8d3f7b8eb950 |
-|   Brickell City Centre (PBBF) - Retail Delivery    | 79a6d600-27af-44ee-8c0b-9da4eaa8e8d2 |
-|  Central Shopping Plaza (PCBB) - Retail Delivery   | 02db1e5d-f149-422f-b3cb-3e3756eb90bd |
-| Palm Springs Mile Shopping(PPAV) - Retail Delivery | abd87f5f-5ef1-46db-80c6-c3b9015ec909 |
-|            Miami (UFL6) - Fresh Online             | 5540b055-ee3c-4274-9997-de65191d6932 |
-|        Mizner Park (PMAQ) - Retail Delivery        | 09cc7bbd-919c-4dec-be50-9a71ab0ca07e |
-|    PALM BEACH OUTLETS (PPBA) - Retail Delivery     | 9ab55e44-a2b4-4860-b6b0-7a4e3afbf5dc |
-|       Miami South Beach (C492) - Whole Foods       | c059f4c8-35bd-4a43-848f-38cb7d9eec9c |
-|          Tamarac FL (VFL3) - Sub Same-Day          | 8c81c54f-6a60-405c-b095-43d9b9bc99c2 |
-|   Marketplace of Delray (PMAT) - Retail Delivery   | 2e3a0cb4-b6b5-4f03-911e-1da27d29be1a |
-| ThePalmsAtTownAndCountry (PTBN) - Retail Delivery  | b4d0f3a2-bf1f-414a-86b8-5c92847afe39 |
-|        Miami Dadeland (C071) - Whole Foods         | f9530032-4659-4a14-b9e1-19496d97f633 |
-|           West Palm Beach - (DMI7) AMZL            | e7765dce-8d20-41b6-a038-9856323d4db6 |
-|         Fort Lauderdale (DFH1)- Amazon.com         | 5e29665d-f6d5-4ff2-8558-fc197eeb84a1 |
-|  Boynton Beach Shopping (PBAZ) - Retail Delivery   | d28203a8-af44-4b03-a4b6-8808bd7a6e57 |
-|           Boca Raton (DMO6)- Amazon.com            | 221c60b4-2825-4fdf-80de-360cdc73e8f4 |
-| Town Center at Boca Raton (PTAI) - Retail Delivery | ca2b3909-034b-4009-bbcb-1c27db8ae86c |
-|     Lincoln Road Mall (PLAC) - Retail Delivery     | 16cdb16b-f02b-473e-bb74-0b0bc2445e61 |
-|     Fort Lauderdale Davie (C072) - Whole Foods     | d39e54d6-1a53-46a9-a22d-309342256ef0 |
-|      West Boca Place (PWER) - Retail Delivery      | 6e677aa9-ea4b-47ab-9d81-ecfcc69b2b22 |
-|     The Gardens Mall (PTAC) - Retail Delivery      | ceb78257-dcce-4fca-84f4-9aff668e2aca |
-| Miami International Mall (PMAV) - Retail Delivery  | cfa667b5-9bed-4d5c-8439-095fb9505cb2 |
-|        Pembroke Pines (C074) - Whole Foods         | fd440da5-dc81-43bf-9afe-f4910bfd4090 |
-|             Miami (DMI9) - Amazon.com              | ffbac4b5-8850-48e8-86bd-4403685d46d7 |
-|       Dadeland Mall (PDAD) - Retail Delivery       | 45cb219b-a209-4ff7-bfd1-b793d4f5b554 |
-| Shoppes At Southern Palms (PSCA) - Retail Delivery | 06f71d26-d5cc-4762-a816-4235ec76f3e5 |
-|              Miami (DVB7)-Amazon.com               | a6b8cf91-1a26-495e-bc7a-6b7f5324a17d |
-|  Office Depot Wellington (PSIZ) - Retail Delivery  | 226768a0-99a3-44ba-a858-5e4969b794c2 |
-|    Country Club Plaza (PCBN) - Retail Delivery     | 37b136a5-f0c2-4428-8d8c-10ba6fbd960e |
-|          Hialeah FL (VFL2) - Sub Same-Day          | a5e1a8d5-c368-4cb8-a2c6-3b71b3eb8178 |
-|     Pembroke Commons (PPBN) - Retail Delivery      | 5894fcc1-dfec-4e8c-97ce-a874a94b1125 |
-|     Pembroke Park (RFL1) - Community Delivery      | ad13a80a-0d93-444c-a660-1b5f65e53626 |
-|          Pembroke Park (DVB5)-Amazon.com           | 5891b812-04ab-405b-8336-355a1f75e48e |
-| BIRD LUDLUM SHOPPING CTR (PBAN) - Retail Delivery  | a787f766-f52b-4e76-a1ca-a051d9a2db82 |
-|       Aventura Mall (PAAD) – Retail Delivery       | 00091261-49d3-4d1f-9720-d76cbd2b2401 |
-|          Boca Raton (C070) - Whole Foods           | 724fcdc1-82a8-4cf9-90db-ba6f5b7e246e |
-|                  Miami FL (NMI2)                   | 37fe42b7-2a8e-4aca-8b5d-7836e38ff1c4 |
-|     North Miami Biscayne (C125) - Whole Foods      | 49d080a7-a765-47cf-a29e-0f1842958d4a |
-|        West Palm Beach (C075) - Whole Foods        | 12bb7066-fac1-4412-83e8-a63247d4a946 |
-|              Miami (DMF5)- Amazon.com              | f78af44a-613a-4cea-bfd4-7ad17da2719d |
-|         Deerfield Beach (DVB4)- Amazon.com         | dbff6260-ad56-4ee2-8ec0-423a12d8d7fa |
-|       Coral Square (PCIA) - Retail Delivery        | 011a2cde-6b58-48da-948d-4b41e5a18289 
+|            Miami (UFL2) - Fresh Online             | 29571892-da88-4089-83f0-24135852c2e4 | SI - 15 MIN
+| Ft Lauderdale Poinciana Park (C465) - Whole Foods  | d15e18ec-66c7-42ae-8599-9f27f82b19cc | NO - 33 min (31.8 miles)
+|       Dolphin Mall (PDAE) - Retail Delivery        | 70830642-a218-4064-9a9b-2cfc90af6bb7 | SI - 13 MIN - 08 miles
+|        Tower Shops (PTGX) - Retail Delivery        | b25b3516-c95c-4457-984d-dfe778e5749c | NO - 39 MIn - 34 miles
+|   Coral Gables South Miami (C314) - Whole Foods    | b90b085e-874f-48da-8150-b0c215efff08 | SI - 15 MIN - 05 miles
+|          Pompano Beach (DMF3)- Amazon.com          | f4342003-fb20-4761-9998-a1aca8133c23 | NO - 44 MIN - 41 miles
+|      West Fork Plaza (PWAU) - Retail Delivery      | 6671a916-633a-446e-a9c6-a0d3ffa1fad8 | NO - 29 min (22.2 miles)
+|     Miami Downtown Miami (C073) - Whole Foods      | d98c442b-9688-4427-97b9-59a4313c2f66 | SI - 16 min (8.1 miles)
+|    Pembroke Lakes Mall (PPCQ) - Retail Delivery    | b8cd3a55-506d-4885-9f99-01644fa31aa6 | NO - 31 min (22.3 miles)
+|   Office Depot Kendall (PSJD) - Retail Delivery    | 2cf2bfae-6fa9-42be-9192-f96fdfa6c38b | SI - 20 min (15.0 miles)
+|    Coconut Creek Plaza (PCBF) - Retail Delivery    | 77e859df-7479-4cbb-a2fe-2a076bf8080f | NO - 43 min (40.2 miles)
+|             Hialeah (DMF1)- Amazon.com             | d42d1888-f102-49e1-b524-6db352dd6d31 | SI - 15 min (6.0 miles)
+|      Sawgrass Mills (PSAJ) – Retail Delivery       | 75aa8d33-6d49-47ef-8519-d14ceee5f122 | NO - 34 min (31.4 miles)
+|                Miami - (DMI6) AMZL                 | fd409ef8-f297-4543-9b93-6a5e93184313 | SI - 5 min (1.6 miles)
+| The Mall At Wellington Green(PTEJ)-Retail Delivery | e3812500-d6f4-46fa-852c-a546e307d80a | NO - 1 hr 12 min (70.4 miles)
+| PinesBlvdInPembrokePines (PPEW) - Retail Delivery  | b5dc48b2-b0cf-4392-8e53-4b4eb0e159fc | NO - 28 min (22.4 miles)
+| Coral Ridge In Ft Lauderdale(PCBM)-Retail Delivery | a7ac1424-c321-43ff-abcf-8d3f7b8eb950 | NO - 44 min (36.6 miles)
+|   Brickell City Centre (PBBF) - Retail Delivery    | 79a6d600-27af-44ee-8c0b-9da4eaa8e8d2 | MAYBE - 15 min (8.3 miles)
+|  Central Shopping Plaza (PCBB) - Retail Delivery   | 02db1e5d-f149-422f-b3cb-3e3756eb90bd | SI - 7 min (1.9 miles)
+| Palm Springs Mile Shopping(PPAV) - Retail Delivery | abd87f5f-5ef1-46db-80c6-c3b9015ec909 | SI - 19 min (10.6 miles)
+|            Miami (UFL6) - Fresh Online             | 5540b055-ee3c-4274-9997-de65191d6932 | SI - 14 min (6.9 miles)
+|        Mizner Park (PMAQ) - Retail Delivery        | 09cc7bbd-919c-4dec-be50-9a71ab0ca07e | NO - 52 min (49.6 miles)
+|    PALM BEACH OUTLETS (PPBA) - Retail Delivery     | 9ab55e44-a2b4-4860-b6b0-7a4e3afbf5dc | NO - 1 hr 9 min (74.7 miles)
+|       Miami South Beach (C492) - Whole Foods       | c059f4c8-35bd-4a43-848f-38cb7d9eec9c | NO - 20 min (11.3 miles) - PLAYA
+|          Tamarac FL (VFL3) - Sub Same-Day          | 8c81c54f-6a60-405c-b095-43d9b9bc99c2 | NO - 36 min (36.0 miles)
+|   Marketplace of Delray (PMAT) - Retail Delivery   | 2e3a0cb4-b6b5-4f03-911e-1da27d29be1a | NO - 59 min (57.7 miles)
+| ThePalmsAtTownAndCountry (PTBN) - Retail Delivery  | b4d0f3a2-bf1f-414a-86b8-5c92847afe39 | NO - 20 min (14.0 miles)
+|        Miami Dadeland (C071) - Whole Foods         | f9530032-4659-4a14-b9e1-19496d97f633 | SI - 14 min (10.5 miles)
+|           West Palm Beach - (DMI7) AMZL            | e7765dce-8d20-41b6-a038-9856323d4db6 | NO - 1 hr 5 min (71.9 miles)
+|         Fort Lauderdale (DFH1)- Amazon.com         | 5e29665d-f6d5-4ff2-8558-fc197eeb84a1 | NO - 40 min (37.2 miles)
+|  Boynton Beach Shopping (PBAZ) - Retail Delivery   | d28203a8-af44-4b03-a4b6-8808bd7a6e57 | NO - 51 min (50.1 miles)
+|           Boca Raton (DMO6)- Amazon.com            | 221c60b4-2825-4fdf-80de-360cdc73e8f4 | NO - 51 min (50.1 miles)
+| Town Center at Boca Raton (PTAI) - Retail Delivery | ca2b3909-034b-4009-bbcb-1c27db8ae86c | NO - 50 min (49.7 miles)
+|     Lincoln Road Mall (PLAC) - Retail Delivery     | 16cdb16b-f02b-473e-bb74-0b0bc2445e61 | NO - 23 min (12.1 miles)
+|     Fort Lauderdale Davie (C072) - Whole Foods     | d39e54d6-1a53-46a9-a22d-309342256ef0 | NO - 34 min (30.4 miles)
+|      West Boca Place (PWER) - Retail Delivery      | 6e677aa9-ea4b-47ab-9d81-ecfcc69b2b22 | NO - 48 min (49.1 miles)
+|     The Gardens Mall (PTAC) - Retail Delivery      | ceb78257-dcce-4fca-84f4-9aff668e2aca | NO - 1 hr 17 min (84.1 miles)
+| Miami International Mall (PMAV) - Retail Delivery  | cfa667b5-9bed-4d5c-8439-095fb9505cb2 | SI - 11 min (6.3 miles)
+|        Pembroke Pines (C074) - Whole Foods         | fd440da5-dc81-43bf-9afe-f4910bfd4090 | NO - 26 min (21.1 miles)
+|             Miami (DMI9) - Amazon.com              | ffbac4b5-8850-48e8-86bd-4403685d46d7 | SI - 19 min (15.3 miles)
+|       Dadeland Mall (PDAD) - Retail Delivery       | 45cb219b-a209-4ff7-bfd1-b793d4f5b554 | SI - 15 min (9.9 miles)
+| Shoppes At Southern Palms (PSCA) - Retail Delivery | 06f71d26-d5cc-4762-a816-4235ec76f3e5 | NO - 1 hr 7 min (71.3 miles)
+|              Miami (DVB7)-Amazon.com               | a6b8cf91-1a26-495e-bc7a-6b7f5324a17d | MAYBE - 19 min (16.1 miles)
+|  Office Depot Wellington (PSIZ) - Retail Delivery  | 226768a0-99a3-44ba-a858-5e4969b794c2 | NO - 1 hr 7 min (69.8 miles)
+|    Country Club Plaza (PCBN) - Retail Delivery     | 37b136a5-f0c2-4428-8d8c-10ba6fbd960e | SI - 22 min (15.1 miles)
+|          Hialeah FL (VFL2) - Sub Same-Day          | a5e1a8d5-c368-4cb8-a2c6-3b71b3eb8178 | SI - 11 min (4.8 miles)
+|     Pembroke Commons (PPBN) - Retail Delivery      | 5894fcc1-dfec-4e8c-97ce-a874a94b1125 | NO - 32 min (23.6 miles)
+|     Pembroke Park (RFL1) - Community Delivery      | ad13a80a-0d93-444c-a660-1b5f65e53626 | NO - 27 min (22.0 miles)
+|          Pembroke Park (DVB5)-Amazon.com           | 5891b812-04ab-405b-8336-355a1f75e48e | NO - 
+| BIRD LUDLUM SHOPPING CTR (PBAN) - Retail Delivery  | a787f766-f52b-4e76-a1ca-a051d9a2db82 | SI - 13 min (4.3 miles)
+|       Aventura Mall (PAAD) – Retail Delivery       | 00091261-49d3-4d1f-9720-d76cbd2b2401 | NO - 33 min (22.4 miles)
+|          Boca Raton (C070) - Whole Foods           | 724fcdc1-82a8-4cf9-90db-ba6f5b7e246e | NO - 48 min (48.8 miles)
+|                  Miami FL (NMI2)                   | 37fe42b7-2a8e-4aca-8b5d-7836e38ff1c4 | SI - 5 min (1.6 miles)
+|     North Miami Biscayne (C125) - Whole Foods      | 49d080a7-a765-47cf-a29e-0f1842958d4a | NO - 27 min (14.8 miles) - PLAYA
+|        West Palm Beach (C075) - Whole Foods        | 12bb7066-fac1-4412-83e8-a63247d4a946 | NO - 1 hr 9 min (74.6 miles)
+|              Miami (DMF5)- Amazon.com              | f78af44a-613a-4cea-bfd4-7ad17da2719d | SI - 16 min (11.1 miles)
+|         Deerfield Beach (DVB4)- Amazon.com         | dbff6260-ad56-4ee2-8ec0-423a12d8d7fa | NO - 47 min (46.0 miles)
+|       Coral Square (PCIA) - Retail Delivery        | 011a2cde-6b58-48da-948d-4b41e5a18289 | NO - 42 min (40.4 miles)
 
 
 
+
+
+
+"desiredWarehouses": [
+    "29571892-da88-4089-83f0-24135852c2e4", /*    Miami (UFL2) - Fresh Online */
+    "70830642-a218-4064-9a9b-2cfc90af6bb7", /* Dolphin Mall (PDAE) - Retail Delivery */
+    "b90b085e-874f-48da-8150-b0c215efff08", /*Coral Gables South Miami (C314) - Whole Foods*/
+    "d98c442b-9688-4427-97b9-59a4313c2f66", /*Miami Downtown Miami (C073) - Whole Foods  */
+    "d98c442b-9688-4427-97b9-59a4313c2f66", /*Miami Downtown Miami (C073) - Whole Foods*/
+    "2cf2bfae-6fa9-42be-9192-f96fdfa6c38b", /*Office Depot Kendall (PSJD) - Retail Delivery*/
+    "d42d1888-f102-49e1-b524-6db352dd6d31", /*Hialeah (DMF1)- Amazon.com */
+    "fd409ef8-f297-4543-9b93-6a5e93184313", /* Miami - (DMI6) AMZL */
+    "02db1e5d-f149-422f-b3cb-3e3756eb90bd", /* Central Shopping Plaza (PCBB) - Retail Delivery*/
+    "abd87f5f-5ef1-46db-80c6-c3b9015ec909", /*Palm Springs Mile Shopping(PPAV) - Retail Delivery*/
+    "5540b055-ee3c-4274-9997-de65191d6932", /*Miami (UFL6) - Fresh Online */
+    "f9530032-4659-4a14-b9e1-19496d97f633", /*Miami Dadeland (C071) - Whole Foods*/
+    "cfa667b5-9bed-4d5c-8439-095fb9505cb2", /*Miami International Mall (PMAV) - Retail Delivery*/
+    "ffbac4b5-8850-48e8-86bd-4403685d46d7", /*Miami (DMI9) - Amazon.com */
+    "45cb219b-a209-4ff7-bfd1-b793d4f5b554", /*Dadeland Mall (PDAD) - Retail Delivery*/
+    "37b136a5-f0c2-4428-8d8c-10ba6fbd960e", /*Country Club Plaza (PCBN) - Retail Delivery*/
+    "a5e1a8d5-c368-4cb8-a2c6-3b71b3eb8178", /*Hialeah FL (VFL2) - Sub Same-Day*/
+    "a787f766-f52b-4e76-a1ca-a051d9a2db82", /*BIRD LUDLUM SHOPPING CTR (PBAN) - Retail Delivery*/
+    "37fe42b7-2a8e-4aca-8b5d-7836e38ff1c4", /*Miami FL (NMI2)*/
+    "f78af44a-613a-4cea-bfd4-7ad17da2719d" /*Miami (DMF5)- Amazon.com*/
+  ],
 
